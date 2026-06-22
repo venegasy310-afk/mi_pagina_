@@ -31,7 +31,7 @@ lugares = [
         "imagen": "https://th.bing.com/th/id/OIP.MQq949MhqLSB4aorcf4YGwHaEo?w=297&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
 
         # Descripción corta
-        "descripcion": "El centro ceremonial mazahua es un parque estatal donde la cultura mazahua y la naturaleza van de la mano.",
+        "descripcion": "Espacio cultural que representa la identidad mazahua.",
 
         # Ubicación
         "ubicacion": "San Felipe del Progreso, Estado de México",
